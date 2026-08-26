@@ -36,8 +36,10 @@ An AI-powered, budget-optimized travel routing engine built exclusively for univ
    ```
 
 4. **Access the Dashboard:**
-   Once running, the app will instantly be available at your local host link:
+   Once running, the app will instantly be available in your browser at:
    👉 **[http://localhost:8501](http://localhost:8501)**
+   
+   *(If `localhost` fails to connect, use the direct local IP: 👉 **[http://127.0.0.1:8501](http://127.0.0.1:8501)**)*
 
 ## 🔐 Test Credentials
 
